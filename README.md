@@ -5,3 +5,9 @@ Huawei Cloud Storage is scalable and maintenance-free. It allows us to store hig
 The service is stable, secure, efficient, and easy-to-use, and can free you from development, deployment, O&M, and capacity expansion of storage servers. Developers do not need to pay attention to indicators such as availability, reliability, and durability and can focus on service capability building and operations, improving user experience.
 
 
+For More Details:
+
+1) https://forums.developer.huawei.com/forumPortal/en/topicview?tid=0201284212923770069&fid=0101187876626530001
+
+2) https://developer.huawei.com/consumer/en/doc/development/AppGallery-connect-Guides/agc-cloudstorage-getstarted
+

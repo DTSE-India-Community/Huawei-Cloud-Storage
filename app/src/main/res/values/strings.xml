@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HMSCloudStorageAndHostingExample</string>
+    <string name="sign_in_failed">SignIn Failed : </string>
+    <string name="browse_upload_the_file"><![CDATA[BROWSE & UPLOAD THE FILE]]></string>
+    <string name="show_the_storage_list">SHOW THE STORAGE LIST</string>
+    <string name="sign_out_completely">Sign Out Completely</string>
+    <string name="huawei_log_out">HUAWEI LOG OUT</string>
+</resources>
